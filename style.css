@@ -1,0 +1,19 @@
+h1 {
+    color: brown; 
+    font-size: 16px;
+    border-bottom: 5px solid red;
+}
+
+a {
+    color: hotpink;
+}
+
+a:hover{
+    color: blue;
+}
+figcaption {
+    width: 400px;
+    margin: 15 auto;
+    text-align: center;
+    font-size: 25px;
+  }
