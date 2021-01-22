@@ -1,0 +1,9 @@
+.container {
+    background-color: rgb(110, 224, 224);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h2 {
+    color: tomato;
+    font-style: oblique;
+}
